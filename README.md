@@ -1,6 +1,6 @@
 # README
 
-This README includes a guide I wrote on how to optimize PostrgreSQL query performance for Army MUGS (electric sensor) units, a description of my API and its uses, and my query performance benchmarking script for MUGS units. Unfortunately all code/files I wrote cannot be included, as many are classified government property. Code for my API and an example on how to use my sampling algorithm are included in the repository, however.
+This README includes a guide I wrote on how to optimize PostrgreSQL query performance for Army MUGS (electric sensor) units, a description of my API and its uses, and my query performance benchmarking script for MUGS units. Unfortunately most code/files I wrote cannot be included, as many are classified government property. Code for my API and an example on how to use my sampling algorithm are included in the repository, however.
 
 ## Database Optimization:
 
