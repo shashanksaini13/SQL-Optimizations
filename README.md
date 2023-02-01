@@ -1,6 +1,6 @@
 # README
 
-This README includes a guide I wrote on how to optimize PostrgreSQL query performance for MUGS (electric sensor) units, a detailed description of my API and its uses, and my query performance benchmarking script for MUGS units. Actual code/files cannot be included, as they are classified government property.
+This README includes a guide I wrote on how to optimize PostrgreSQL query performance for MUGS (electric sensor) units, a detailed description of my API and its uses, and my query performance benchmarking script for MUGS units. ALl actual code/files cannot be included, as many are classified government property.
 
 ## Database Optimization:
 
