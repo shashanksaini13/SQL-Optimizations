@@ -100,6 +100,8 @@ Pass in a table name, field, start time, and end time. The API will write a Post
 
 Automatic resolution will sample the data with equal distribution and choose an averaging interval automatically. 50 points will be generated.
 
+![alt text](https://github.com/shashanksaini13/SQL-Optimizations/blob/main/Example%20Algorithm%20Usage.png)
+
 ## Benchmarking script:
 
 commascript.py and humanscript.py are two benchmarking scripts for MUGS units with similar purposes. commascript.py request the user for a table name, data type, and number of days for the query to range. It then executes the query and writes Execution Time, Preparation Time, CPU1 and CPU2 Usage, RAM Usage and Row Count to a CSV file. humanscript.py does the same, except writes to a text file which is easier to read. Run new.py before running commascript.py to reset the CSV file. 
