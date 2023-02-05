@@ -101,6 +101,7 @@ Pass in a table name, field, start time, and end time. The API will write a Post
 Automatic resolution will sample the data with equal distribution and choose an averaging interval automatically. 50 points will be generated.
 
 ![alt text](https://github.com/shashanksaini13/SQL-Optimizations/blob/main/Example%20Algorithm%20Usage.png)
+*Example use of algorithm*
 
 ## Benchmarking script:
 
